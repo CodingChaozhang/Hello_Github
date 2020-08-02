@@ -10,4 +10,4 @@
 
 ### 2.3 修改README.md
 
-### 2.4 新建people_zcl分支
+### 2.4 新建一个people_lcz people_zcl分支
