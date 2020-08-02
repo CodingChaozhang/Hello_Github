@@ -6,6 +6,6 @@
 
 ### 2.1 新建html文件并提交到github仓库
 
-### 2.2 新建REAME.md文件一并提交
+### 2.2 新建README.md文件一并提交
 
 ### 2.3 修改README.md
