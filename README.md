@@ -2,7 +2,7 @@
 
 ## 一、git与github的自我介绍
 
-## 二、开始github的旅行
+## 二、开始git的旅行
 
 ### 2.1 新建html文件并提交到github仓库
 
@@ -11,3 +11,5 @@
 ### 2.3 修改README.md
 
 ### 2.4 新建一个people_lcz people_zcl分支
+
+## 三、开始github的旅行
