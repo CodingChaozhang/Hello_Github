@@ -9,3 +9,5 @@
 ### 2.2 新建README.md文件一并提交
 
 ### 2.3 修改README.md
+
+### 2.4 新建一个people_lcz分支
